@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "575065151628",
+    "firebase_url": "https://traveller-s-guide6.firebaseio.com",
+    "project_id": "traveller-s-guide6",
+    "storage_bucket": "traveller-s-guide6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575065151628:android:abcbeaa0699177cf",
+        "android_client_info": {
+          "package_name": "com.example.shraddha.travellersguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575065151628-icl2pph3tilbg56u4oo05s5oe6j27j3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYxfJgGW4SKci1d4MFDB_h8oopvLnXaxE"
+        },
+        {
+          "current_key": "AIzaSyCYxfJgGW4SKci1d4MFDB_h8oopvLnXaxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
